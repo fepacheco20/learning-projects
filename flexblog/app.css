@@ -264,6 +264,9 @@ footer {
         flex-direction: column;
         justify-content: space-between;
     }
+    #sobre, .qualidade, h1 {
+        width: 90%;
+    }
 }
 
 @media(max-width: 1200px){
